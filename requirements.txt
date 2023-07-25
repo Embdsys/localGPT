@@ -24,3 +24,11 @@ requests
 
 # Excel File Manipulation
 openpyxl
+
+# Fix missing dependencies
+monotonic
+six
+attrs
+certifi
+idna
+pyyaml
