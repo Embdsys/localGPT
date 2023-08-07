@@ -1,3 +1,8 @@
+THE STABLE COMMIT IS:
+
+6f894706d9c371115d691f0d9e3b117fb42ba216
+
+** It runs on Ubuntu using a NVIDIA 980
 # localGPT
 
 This project was inspired by the original [privateGPT](https://github.com/imartinez/privateGPT). Most of the description here is inspired by the original privateGPT.
