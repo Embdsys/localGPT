@@ -93,6 +93,7 @@ def load_model(device_type, model_id, model_basename=None):
             torch_dtype=torch.float16,
             low_cpu_mem_usage=True,
             trust_remote_code=True,
+            offload_folder="offload"
             # max_memory={0: "15GB"} # Uncomment this line with you encounter CUDA out of memory errors
         )
         model.tie_weights()
